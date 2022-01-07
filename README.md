@@ -42,9 +42,10 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-de
 Link to source [here](https://www.businessofapps.com/data/twitter-statistics/). 
 
 ## Position
-![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Position2.png)
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/position2.png)
 
 ## Size
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/size2.png)
 
 ## Shape
 
