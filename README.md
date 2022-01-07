@@ -39,6 +39,7 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-de
 ## Texture
 
 # Group Task 2 part 2
+Link to source [here](https://www.businessofapps.com/data/twitter-statistics/). 
 
 ## Position
 
