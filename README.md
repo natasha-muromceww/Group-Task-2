@@ -1,4 +1,4 @@
-# Group-Task-2
+# Group-Task-2 Part 1
 
 ## Position
 ![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/position.png)
@@ -37,3 +37,17 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-de
 
 
 ## Texture
+
+# Group Task 2 part 2
+
+## Position
+
+## Size
+
+## Shape
+
+## Value 
+
+## Colour
+
+## Orientation
