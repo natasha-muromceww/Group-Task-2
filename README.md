@@ -23,16 +23,16 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases.ht
 
 ## Colour
 ![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/color.png)
-![...]()
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/colorkey.png)
 
-This is a map of the United States with each county colored depending on the amount of covid deaths. The dark red counties represent the highest amount of deaths 
-Early January 
+This is a map of the United States with each county colored depending on the amount of covid deaths per capita in the first week of January. The dark red counties represent the highest amount of deaths and the orange and yellow colors represent lower amounts of covid deaths per capita. There representation does show quantitative values directly on the image, the order is in relation to it's category, and the length is consistent with each arrow. 
 Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases.html)
 
 
 ## Orientation
 ![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/orientation.png)
 
+This is a chart tracking covid cases, deaths, and hospitalizations. the orientation of the arrows point upwards depending on how much of an increase there was in the past 14 days. 
 Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html)
 
 
