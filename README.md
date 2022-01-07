@@ -51,3 +51,5 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-de
 ## Colour
 
 ## Orientation
+
+## Texture 
