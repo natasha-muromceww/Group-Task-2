@@ -61,3 +61,20 @@ Link to source [here](https://www.businessofapps.com/data/twitter-statistics/).
 
 ## Texture 
 ![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20revenue%20texture.png)
+
+# Group-Task-2 Part 3: Apple Production by Contry Re-Visualization
+
+## Position
+
+## Size
+
+## Shape
+
+## Value
+
+## Colour
+
+## Orientation
+
+## Texture 
+
