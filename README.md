@@ -38,7 +38,7 @@ Link to source [here](https://www.nytimes.com/interactive/2021/us/covid-cases-de
 
 ## Texture
 
-# Group Task 2 part 2
+# Group Task 2 part 2: Twitter Revenue Visualization
 Link to source [here](https://www.businessofapps.com/data/twitter-statistics/). 
 
 ## Position
@@ -53,7 +53,10 @@ Link to source [here](https://www.businessofapps.com/data/twitter-statistics/).
 ![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20Revenue%20Value.png)
 
 ## Colour
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20Revnue%20Color.png)
 
 ## Orientation
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20Revenue%20Orientation.png)
 
 ## Texture 
+![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20revenue%20texture.png)
