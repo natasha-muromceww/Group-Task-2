@@ -50,6 +50,7 @@ Link to source [here](https://www.businessofapps.com/data/twitter-statistics/).
 ## Shape
 
 ## Value 
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20Revenue%20Value.png)
 
 ## Colour
 
