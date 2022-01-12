@@ -72,11 +72,13 @@ Previous Group's Visualizations linked [here](https://github.com/CSC630/group-ta
 ## Shape
 
 ## Value
+![..]( https://github.com/natasha-muromceww/Group-Task-2/blob/main/value%203.png)
 
 ## Colour
+![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/color%203.png)
 
 ## Orientation
-
+![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Orientation%203.png)
 
 ## Texture 
 ![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Texture%203.png)
