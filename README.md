@@ -63,6 +63,7 @@ Link to source [here](https://www.businessofapps.com/data/twitter-statistics/).
 ![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Twitter%20revenue%20texture.png)
 
 # Group-Task-2 Part 3: Apple Production by Contry Re-Visualization
+Previous Group's Visualizations linked [here](https://github.com/CSC630/group-task-2/tree/main/group-2)
 
 ## Position
 
@@ -76,5 +77,6 @@ Link to source [here](https://www.businessofapps.com/data/twitter-statistics/).
 
 ## Orientation
 
-## Texture 
 
+## Texture 
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Texture%203.png)
