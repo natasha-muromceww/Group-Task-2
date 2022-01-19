@@ -72,6 +72,7 @@ Previous Group's Visualizations linked [here](https://github.com/CSC630/group-ta
 ![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Size3.png)
 
 ## Shape
+![..](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Shape3.png)
 
 ## Value
 ![..]( https://github.com/natasha-muromceww/Group-Task-2/blob/main/value%203.png)
